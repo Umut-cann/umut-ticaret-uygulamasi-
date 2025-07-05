@@ -91,8 +91,4 @@ Katkılarınız projeyi daha iyi hale getirecektir! Katkıda bulunmak isterseniz
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-## 📧 İletişim
 
-Umut Can - [umut.can@ornek.com](mailto:umut.can@ornek.com)
-
-Proje Linki: [https://github.com/kullanici-adi/umut_ticaret](https://github.com/kullanici-adi/umut_ticaret)
